@@ -41,7 +41,7 @@ pip install -r requirements.txt
 streamlit run app.py
  4. Open in Browser
 
-Go to 👉 [http://localhost:8501](http://localhost:8501)
+Go to 👉 http://localhost:8502/
 
  📊 Example Use Case
  A user selects Hyundai Creta Petrol in Maharashtra.
